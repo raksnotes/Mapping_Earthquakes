@@ -9,4 +9,5 @@ Therefore, when coding logicStep2, I renamed map to map1 in logicStep1, renamed 
 
 I was able to successfully output a map according to requirements of Deliverable 1 and Deliverable 2. When the code is run, I was able to toggle between the different layers, Earthquakes, Tectonic Plates, Major Earthquakes, as well as toggle between Streets and Satellite. 
 
-![past7days output](https://user-images.githubusercontent.com/116187123/222043540-cee02b61-1005-4bc0-97fc-2bb2fc1d11f4.png)
+![challenge_logic output](https://user-images.githubusercontent.com/116187123/222044829-b6f54116-af93-4e1b-8b68-e8e2c3323585.png)
+
