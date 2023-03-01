@@ -1,6 +1,6 @@
 # Mapping_Earthquakes
 
-##Purpose: 
+## Purpose
 The purpose of this assignment was to map Tectonic Plate data and Major Earthquake data. 
 
 
