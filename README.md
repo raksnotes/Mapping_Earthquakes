@@ -11,3 +11,4 @@ I was able to successfully output a map according to requirements of Deliverable
 
 ![challenge_logic output](https://user-images.githubusercontent.com/116187123/222044829-b6f54116-af93-4e1b-8b68-e8e2c3323585.png)
 
+![image](https://user-images.githubusercontent.com/116187123/222045093-72804157-2e73-4709-928f-20ae41cb29bd.png)
