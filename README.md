@@ -3,6 +3,7 @@
 ## Purpose
 The purpose of this assignment was to map Tectonic Plate data and Major Earthquake data. 
 
+Referenced 14.5 to map GeoJson data, referenced 14.6 for logicStep1-5. 
 
 In the JS code, I had to reinitialize the same variables with different names because I was getting a constant syntax error that variables had already been declared. 
 Therefore, when coding logicStep2, I renamed map to map1 in logicStep1, renamed map1 to map2 in logicStep3 etc 
